@@ -1,0 +1,299 @@
+{
+  "project_info": {
+    "project_number": "768043028815",
+    "firebase_url": "https://uclap-e03fe-default-rtdb.firebaseio.com",
+    "project_id": "uclap-e03fe",
+    "storage_bucket": "uclap-e03fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:36674f27eee4c76f7b353a",
+        "android_client_info": {
+          "package_name": "com.carlink.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:23e1fe75c2b3ec6e7b353a",
+        "android_client_info": {
+          "package_name": "com.fastlaundry.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:a989a9f749f534dd7b353a",
+        "android_client_info": {
+          "package_name": "com.fastlaundry.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:15ae3b924a970c1d7b353a",
+        "android_client_info": {
+          "package_name": "com.fastlaundry.storeapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:83e985bf937351c97b353a",
+        "android_client_info": {
+          "package_name": "com.milkman.customerapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:dab99730f74cccf97b353a",
+        "android_client_info": {
+          "package_name": "com.milkman.deliveryapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:ef8c7d7ea44309887b353a",
+        "android_client_info": {
+          "package_name": "com.milkman.storeapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768043028815:android:a7bccd18c3c498e57b353a",
+        "android_client_info": {
+          "package_name": "com.moviebooking.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HEOkP8o6ATgFWuQF-ticI6Fw2H6dihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768043028815-r8ijob5g0f6s428p9mvmptq6osm9sr7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768043028815-pdr2sds13h1raicr6o6ke216osemtvoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.UClapCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
